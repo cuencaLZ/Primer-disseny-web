@@ -13,7 +13,8 @@ Los archivos que componen este repositorio son;
 En el trabajo encontramos el lenguaje HTML que he utilizado a la hora de hacer la pagina web **Ak-47** y que por ejemplo compone la forma de hacer una Tabla en html, este codigo es el siguiente:
 
 
-```<table style="width:">
+```
+<table style="width:">
 			<tr>
 				<th>Modelo</th>
 				<th>Año</th> 
@@ -32,7 +33,8 @@ En el trabajo encontramos el lenguaje HTML que he utilizado a la hora de hacer l
 				<td>3,07 Kg</td>
 				<td>5,45mm</td>
 			</tr>
-</table>```
+</table>
+```
 
 La sintaxis Basica de Marcdown es:
 
