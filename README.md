@@ -1,6 +1,6 @@
-#El Readme de mi pagina web
+# El Readme de mi pagina web
 
-##Trabajar con Markdown
+## Trabajar con Markdown
 
 En este repositorio encontraremos mi trabajo 2.2.1 y en el readme el trabajo 2.2.3
 
